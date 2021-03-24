@@ -1,2 +1,10 @@
 # hello-world
-My first repository. Cheers to a successful programming career!
+
+
+Hello, bots!
+
+My name is Oladayo. just call me Dafortress, though. I'm going to become a full stack developer. I'm starting with frontend development.
+
+Pretty soon, you will have to handle a lot of my code. Please, handle them with care. 
+
+Bye for now.
